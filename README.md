@@ -1,2 +1,0 @@
-# NEXIS
-Medio de comunicasión
